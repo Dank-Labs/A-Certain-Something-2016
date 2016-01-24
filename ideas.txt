@@ -1,0 +1,31 @@
+Restaurants:
+	Menu
+	Place an order
+	Pay for food
+	Pick a table
+	Etc.
+
+News feed:
+	Weather
+	Major news
+	Minor news
+
+Cars and Vehicles:
+	Start the car
+	Change the radio
+	Check car status
+	Change settings like heat, butt warmers, etc.
+
+Places (Tourism and stuff):
+	History
+	Places of interest
+	Maps
+	Transportation
+	Events and things to do
+
+Inside the Home:
+	Home security
+	Lights
+	Garage
+
+Other things:
